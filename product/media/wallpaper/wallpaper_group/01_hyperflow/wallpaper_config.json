@@ -1,0 +1,29 @@
+{
+    "title": "HyperFlow wallpapers",
+    "titleResId": "HyperFlow",
+    "cardType": 2,
+    "count": 5,
+    "slideCount": 5,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./Hyperflow01.png",
+        "originPath": "./Hyperflow01.png",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Hyperflow02.png",
+        "originPath": "./Hyperflow02.png",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Hyperflow03.png",
+        "originPath": "./Hyperflow03.png",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Hyperflow04.png",
+        "originPath": "./Hyperflow04.png",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Hyperflow05.png",
+        "originPath": "./Hyperflow05.png",
+        "type": "wallpaper"
+    }]
+}
