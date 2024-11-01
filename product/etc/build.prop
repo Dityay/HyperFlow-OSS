@@ -2,6 +2,9 @@
 ro.config.low_ram.threshold_gb=2
 ro.miui.has_real_blur=1
 ro.miui.ui.blur=1
+persist.sys.background_blur_supported=true
+persist.sys.background_blur_status_default=false
+persist.sys.background_blur_version=2
 
 # Thermal
 ro.thermal.iec.enable=true
@@ -15,3 +18,41 @@ net.dns2=8.8.4.4
 ro.surface_flinger.enable_frame_rate_override=false
 ro.vendor.fps.switch.default=true
 persist.sys.screen_anti_burn_enabled=true
+
+# Fix lag issue on lowend
+persist.sys.miui_animator_sched.bigcores=2-7
+persist.sys.miui_animator_sched.bigcores=2-7
+persist.sys.miui_animator_sched.sched_threads=6
+persist.sys.spc.cpulimit.enabled=true
+persist.recenttasks.limit_maximum_number=true
+persist.sys.miui.sys_monitor=am.ActivityManagerService,wm.WindowManagerGlobalLock
+persist.sys.mms.compact_enable=true
+persist.sys.spc.enabled=true
+persist.sys.use_mi_new_strategy=true
+persist.sys.mmms.switch=true
+persist.sys.mms.bg_apps_limit=96
+persist.sys.mmms.lower.pre.previous.memavailable.thread=367000
+persist.sys.mmms.throttled.thread=15360
+persist.sys.miui_scout_enable=false
+persist.sys.reduce_died_count_delay=360000
+persist.sys.disable_restart_threshold=1
+persist.sys.full_scene_intercept_restart=true
+persist.sys.spc.proc_restart_enable=true
+persist.sys.use_boot_compact=true
+persist.sys.testTrimMemActivityBg.wk.enable=true
+persist.miui.dexopt.first_use=false
+persist.sys.memory_standard.enable=true
+
+
+# Blur props (optional)
+ro.sf.blurs_are_expensive=1
+ro.sf.blurs_are_caro=0
+ro.miui.has_blur=1 
+ro.miui.has_handy_mode_sf=1 
+ro.launcher.blur.appLaunch=1
+ro.surface_flinger.supports_background_blur=1
+enable_blurs_on_windows=1
+ro.miui.backdrop_sampling_enabled=true
+persist.sys.sf.disable_blurs=false
+
+
