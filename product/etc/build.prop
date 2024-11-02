@@ -6,6 +6,9 @@ persist.sys.background_blur_supported=true
 persist.sys.background_blur_status_default=false
 persist.sys.background_blur_version=2
 
+# POCO Phone fix
+ro.miui.product.home=com.miui.home
+
 # Thermal
 ro.thermal.iec.enable=true
 ro.config.thermal_throttle=true
