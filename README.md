@@ -4,7 +4,7 @@
 
 Please note that this project is still in early beta, and not finished yet.
 
-# Credits (for now)
+# Credits
 
 • @spellydev [GH] / @itzspelly [TG] HyperFlow founder
 
@@ -14,4 +14,6 @@ Please note that this project is still in early beta, and not finished yet.
 
 • @MaloyBegonia [TG] for Muzza app
 
-• @Kashi for mods
+• @mebey_mod [TG] for SysUI Plugin
+
+• @kashis_cringey_stuffs [TG] for mods
