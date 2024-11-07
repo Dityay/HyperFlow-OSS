@@ -1,0 +1,13 @@
+{
+  "basic": {
+    "CPU": "Mediatek Helio G85",
+    "Battery": "5000mAh",
+    "Camera": "50MP + 0,08",
+    "Screen": "6.71″",
+    "Resolution": "720×1650"
+  },
+  "camera": {
+    "front_camera": "5MP",
+    "rear_camera": "50MP + 0,08MP"
+  }
+}
