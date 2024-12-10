@@ -1,6 +1,6 @@
 # HyperFlow OSS FS
 
-<img src=https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/HyperFlow.png>
+<img src=https://raw.githubusercontent.com/Dityay/Dityay/refs/heads/main/hyperflow.png>
 
 Please note that this project is still in early beta, and not finished yet.
 
@@ -21,3 +21,7 @@ Please note that this project is still in early beta, and not finished yet.
 • @obitosarts [TG] for Settings smali
 
 • @kashis_cringey_stuffs [TG] for mods
+
+
+
+HyperFlow 2 incoming! <3
