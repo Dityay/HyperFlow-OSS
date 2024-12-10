@@ -1,5 +1,6 @@
 # Low RAM patches to unlock full features
 ro.config.low_ram.threshold_gb=2
+ro.config.low_ram.middle.threshold_gb=2
 ro.miui.has_real_blur=1
 ro.miui.ui.blur=1
 persist.sys.background_blur_supported=true
@@ -70,3 +71,18 @@ ro.product.brand=Redmi
 ## BAD PROPS REMOVED AGAIN
 
 
+# HOS 2 SHITS
+ro.control_privapp_permissions=
+ro.bluetooth.a2dp_offload.supported=false
+persist.bluetooth.a2dp_offload.disabled=true
+persist.sys.app_dexfile_preload.enable=false
+persist.sys.usap_pool_enabled=false
+persist.sys.dynamic_usap_enabled=false
+persist.sys.spc.proc_restart_enable=false
+persist.sys.preload.enable=false
+persist.sys.precache.enable=false
+persist.sys.prestart.proc=false
+persist.sys.prestart.feedback.enable=false
+persist.sys.performance.appLaunchPreload.enable=false
+persist.sys.smartcache.enable=false
+persist.sys.art_startup_class_preload.enable=false
